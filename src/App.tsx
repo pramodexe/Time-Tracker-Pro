@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Dashboard from "./components/Dashboard.js";
-import CategoryView from "./components/CategoryView.js";
-import CategoriesPage from "./components/CategoriesPage.js";
-import Header from "./components/Header.js";
-import Footer from "./components/Footer.js";
+import Dashboard from "./components/Dashboard";
+import CategoryView from "./components/CategoryView";
+import CategoriesPage from "./components/CategoriesPage";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
